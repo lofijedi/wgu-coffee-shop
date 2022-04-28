@@ -1,5 +1,5 @@
 # Coffee Shop Project
-Project to showcase my understanding of SQL. I used mySQL for my database tool.
+Project to showcase my understanding of SQL, using MySQL and MySQL Workbench 8.0.
 
 # Competencies
 
