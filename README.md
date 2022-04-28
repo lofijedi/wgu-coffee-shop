@@ -92,20 +92,3 @@ B. Create a database using the attached "Jaunty Coffee Co. ERD" by doing the fol
 C. Submit parts A and B as a PDF, with each part clearly labeled.
 
 D. Demonstrate professional communication in the content and presentation of your submission.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
