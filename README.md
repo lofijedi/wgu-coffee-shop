@@ -1,4 +1,4 @@
-# SQL Project
+# Coffee Shop Project
 Project to showcase my understanding of SQL. I used mySQL for my database tool.
 
 # Competencies
